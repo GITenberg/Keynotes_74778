@@ -1,0 +1,51 @@
+_repo: Keynotes_74778
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Beardsley, Aubrey
+    birthdate: 1872
+    deathdate: 1898
+    gutenberg_agent_id: '41820'
+    url: http://www.gutenberg.org/2009/agents/41820
+    wikipedia: https://en.wikipedia.org/wiki/Aubrey_Beardsley
+creator:
+  author:
+    agent_name: Egerton, George
+    aliases:
+    - Bright, Mary Chavelita Dunne
+    - Dunne, Mary Chavelita
+    - Clairmonte, Mary Chavelita
+    birthdate: 1859
+    deathdate: 1945
+    gutenberg_agent_id: '6150'
+    url: http://www.gutenberg.org/2009/agents/6150
+    wikipedia: https://en.wikipedia.org/wiki/George_Egerton
+description: ''
+gutenberg_issued: '2024-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74778'
+language: en
+pgterms:marc904: https://archive.org/details/keynotes00egerrich/page/n7/mode/2up
+pgterms:marc905: 20240309060714egerton
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Sonya Schermann, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bRoberts Brothers, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Short stories, Australian'
+- !lcsh 'Feminist fiction, Australian'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'A cross line -- Now spring has come -- The spell of the white elf
+  -- A little gray glove -- An empty frame -- Under northern sky: How Marie Larsen
+  exorcised a demon. A shadow''s slant. An ebb tide.'
+title: Keynotes
+url: http://www.gutenberg.org/ebooks/74778
